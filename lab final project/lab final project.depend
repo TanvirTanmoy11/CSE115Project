@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1661888696 source:c:\users\zaaibo ltd\desktop\new folder\lab final project\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
